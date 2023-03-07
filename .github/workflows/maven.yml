@@ -43,5 +43,5 @@ jobs:
         image: OuhrabkovaAdel/PhoneCompany
         tags: v1, latest
         registry: adelouhrabkova/private-repo
-        username: adelaouhrabkova
+        username: ouhrabkova.adel@gmail.com
         password: Jejna159753
