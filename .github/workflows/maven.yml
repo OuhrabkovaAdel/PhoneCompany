@@ -42,5 +42,5 @@ jobs:
       with:
         image: adelouhrabkova/private-repo
         registry: docker.io
-        username: ouhrabkova.adel@gmail.com
+        username: adelouhrabkova
         password: Jejna159753
