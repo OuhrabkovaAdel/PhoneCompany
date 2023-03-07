@@ -40,8 +40,8 @@ jobs:
     - name: Build & push Docker image
       uses: mr-smithers-excellent/docker-build-push@v6
       with:
-        image: OuhrabkovaAdel/PhoneCompany
+        image: adelouhrabkova/private-repoy
         tags: v1, latest
-        registry: adelouhrabkova/private-repo
+        registry: docker.io
         username: ouhrabkova.adel@gmail.com
         password: Jejna159753
